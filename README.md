@@ -4,8 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/erikscalf/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
- 
+
 - <b>Microsoft Azure</b>
   - [Virtual Machines](https://github.com/erikscalf/CreatingVMs)
   - [Connect to a machine using Remote Desktop](https://github.com/erikscalf/remotedesktop)
