@@ -9,6 +9,9 @@
   - [Virtual Machines](https://github.com/erikscalf/CreatingVMs)
   - [Connect to a machine using Remote Desktop](https://github.com/erikscalf/remotedesktop)
 
+- <b>Using ChatGPT and Fotojet to make images for your projects</b>
+  - [Virtual Machines](https://github.com/erikscalf/CreatingVMs)
+
 <h2>Connect with me:</h2>
 
 
