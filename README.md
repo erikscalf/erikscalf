@@ -1,4 +1,4 @@
-<h1>Hi, I'm Erik, an <a href="https://www.linkedin.com/in/erikscalf/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Erik, an <a href="https://www.linkedin.com/in/erikscalf/">IT Specialist</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
